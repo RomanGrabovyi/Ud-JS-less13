@@ -86,7 +86,7 @@ let appData = {
 
 
 };
-
+// Всі дані програми
 for (let key in appData){
     console.log('Наша програма включає в себе такі дані: ' + key + ' - ' + appData[key]);
 }
